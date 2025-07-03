@@ -1,7 +1,7 @@
 # ZONAS-TURISTICAS-DEL-PERU-
 # 🇵🇪 Zonas Turísticas del Perú
 
-**Repositorio creado con orgullo por Brad Vela**  
+**Repositorio creado con orgullo por Brad Vela y paul alva los mas guapos del salon**  
 Explora los principales destinos turísticos del Perú, organizados por región.  
 Incluye hoteles, museos, parques naturales y gastronomía típica.
 
